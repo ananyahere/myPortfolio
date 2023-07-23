@@ -15,7 +15,7 @@
 }
 html {
 	font-family: 'Roboto Mono';
-	font-size: 10px;
+	font-size: 12px;
 	scroll-behavior: smooth;
 }
 
@@ -362,10 +362,11 @@ p {
 #hero .left .desc {
 	margin-top: 3.5rem;
 	color: #ddd9d9;
-	max-width: 400px;
+	max-width: 800px;
 	animation: fade 0.3s ease-in forwards;
 	animation-delay: 1.1s;
 	opacity: 0;
+	font-size: 1.75rem;
 }
 
 
